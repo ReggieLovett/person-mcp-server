@@ -1,0 +1,10 @@
+{
+  "name": "person-mcp-server",
+  "version": "1.0.0",
+  "main": "mcp-server.js",
+  "description": "MCP server for Person App CRUD operations",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "axios": "^1.6.0"
+  }
+}
